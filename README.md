@@ -5,6 +5,9 @@
 
 html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로젝트 인터랙티브 웹 제작을 목표로 했습니다.
 ### BubbleBubble
+
+![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/fb69ee3a-4658-4700-944b-017c9239c1fa)
+
 '보글보글 방울 소동' 이라는 제목에 맞게 스펀지밥을 배경으로 사용자와 상호작용 하는 모바일 웹입니다.
 - 사용 방법
 1. 사용자 클릭/터치 위치에 랜덤 크기의 비눗방울 생성
@@ -14,5 +17,7 @@ html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로
 https://blog.naver.com/ch0rckbean/222405793784
 
 ### SunsetToNight
+![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/c7632438-1074-4970-ba65-592165a1f36b)
+
 사용자의 마우스 커서 움직임에 따라 멋진 야경과 밤하늘의 우주, ufo 까지 볼 수 있는 짧은 프로젝트입니다.
 https://blog.naver.com/ch0rckbean/222410397047
