@@ -37,7 +37,7 @@ html, css, javascript, Motion, Orientation Sensor
 
 html, css, 이미지, 음향 소스, 폰트 등을 통한 프로토타입 제작 및 디자인
 
-JS를 통한 비눗방울 생성 이벤트
+JS를 통한 비눗방울 생성 이벤트 추가
 
 최종 발표자료 제작 
 
