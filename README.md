@@ -1,9 +1,11 @@
 # interactiveMedia_Introduction
 ## 2021 [인터랙티브 미디어개론] 
-### 팀 프로젝트 : BubbleBubble
-### 개인 프로젝트: SunsetToNight
+### 1. 팀 프로젝트 : BubbleBubble
+### 2. 개인 프로젝트: SunsetToNight
 
 html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로젝트 인터랙티브 웹 제작을 목표로 했습니다.
+## 1. 팀 프로젝트 : BubbleBubble
+
 ### 개요
 
 ![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/782138cf-80ae-41ae-b15e-ea5cd0ffb1df)
@@ -54,8 +56,9 @@ https://blog.naver.com/ch0rckbean/222405793784
 
 ----------
 
+### 2. 개인 프로젝트: SunsetToNight
+
 ### SunsetToNight
 ![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/c7632438-1074-4970-ba65-592165a1f36b)
 
-사용자의 마우스 커서 움직임에 따라 멋진 야경과 밤하늘의 우주, ufo 까지 볼 수 있는 짧은 프로젝트입니다.
-https://blog.naver.com/ch0rckbean/222410397047
+
