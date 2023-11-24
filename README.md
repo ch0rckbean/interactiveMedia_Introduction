@@ -56,9 +56,75 @@ https://blog.naver.com/ch0rckbean/222405793784
 
 ----------
 
-### 2. 개인 프로젝트: SunsetToNight
+## 2. 개인 프로젝트: SunsetToNight
 
 ### SunsetToNight
 ![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/c7632438-1074-4970-ba65-592165a1f36b)
 
+### 개요
+
+Html, Css, Javascript를 활용한 첫 인터랙티브 웹페이지 제작
+
+### 기한
+
+2021.5
+
+### 고려사항
+
+1. 주제를 잘 살릴 수 있는 디자인 및 페이지 구성
+
+2. 인터랙티브 요소
+
+3. 개연성 있는 스토리텔링
+
+### 컨셉
+
+"노을이 진 후 밤하늘에서 일어나는 일"
+
+### 내용
+
+사용자의 마우스 스크롤에 따라 멋진 야경과 밤하늘의 우주, UFO 까지 볼 수 있는 근사한 인터랙티브 웹페이지
+
+**섹션 구성**
+
+1. *“아름다운 노을 속, 스크롤을 내리면 해가 지고 구름이 사라지며 비행기가 날아가는 등 어느덧 밤이 됩니다."*
+   
+
+https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/ede1cb58-1065-4cb4-9bc9-b3f0b45aa2de
+
+    
+- scrollY , y position 활용
+
+2. *"아름다운 노을이 지고 밤이 되면 우주 은하로 나아갑니다."*
+    
+
+https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/8085f76a-ad1f-4bb7-a62e-ee74fba9f0be
+
+    
+- GO 버튼 클릭시 UFO 위치 이동, 일정 위치 도달 시 제자리로 돌아옴
+- scrollY , y position 활용
+
+3. *"신비로운 은하 속 UFO의 신비까지 경험한 지구인, 우주선 앞에서 앞으로 살아갈 행성을 선택하게 됩니다.*  
+    
+    *하단의 작은 행성 아이콘을 클릭하면 우주선이 목적지 행성으로 바뀌며 그 곳에서의 삶을 약속합니다."*
+    
+
+https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/d49b4e37-2e23-4091-b442-d52f071ad4ef
+
+
+    
+    - 행성 아이콘 클릭시 각 행성 Img로 Src 변경, 행성 아이콘 Hover 이벤트 적용
+
+### 사용 기술
+
+Html, Css, Javascript
+
+### 성과
+
+Html, Css, Javascript 입문 및 동작 이해, 스크롤 이벤트 사용
+
+
+### Blog
+
+[[인터랙티브 컨텐츠] Sunset_To_Night](https://blog.naver.com/ch0rckbean/222410397047)
 
