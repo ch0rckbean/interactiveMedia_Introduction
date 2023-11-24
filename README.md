@@ -10,7 +10,7 @@ html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로
 
 ![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/782138cf-80ae-41ae-b15e-ea5cd0ffb1df)
 
-![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/8e411521-adb1-4a99-94e2-358c923a2733)
+![Untitled](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/44e60fed-daa9-4c6d-91e1-91e10ab3c9ef)
 
 1. 인터랙티브 웹페이지 코드 리뷰
 2. html, css, javascript, Motion, Orientation Sensor를 활용한 인터랙티브 모바일 웹페이지 제
@@ -26,6 +26,12 @@ html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로
 1. 사용자 클릭/터치 위치에 랜덤 크기의 비눗방울 생성
 2. 모션 센서를 통해 디바이스를 빠르게 흔들면 효과음과 함께 비눗방울 터트리기
 3. 오리엔테이션 센서를 통해 사용자가 디바이스를 기울이는 방향으로 비눗방울 움직이기
+
+
+https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/7cdec004-1cf0-4afb-9ead-5200c1e0f00b
+
+
+
 
 ### 사용 기술
 
