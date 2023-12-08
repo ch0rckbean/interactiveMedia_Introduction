@@ -13,7 +13,7 @@ html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로
 ![Untitled](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/44e60fed-daa9-4c6d-91e1-91e10ab3c9ef)
 
 1. 인터랙티브 웹페이지 코드 리뷰
-2. html, css, javascript, Motion, Orientation Sensor를 활용한 인터랙티브 모바일 웹페이지 제
+2. html, css, javascript, Motion, Orientation Sensor를 활용한 인터랙티브 모바일 웹페이지 제작 
 
 첫 인터랙티브 미디어개론 팀 프로젝트 
 
