@@ -10,7 +10,6 @@ html, css, javascript 에 처음 입문한 수업으로써, 개인 및 팀프로
 
 ![image](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/782138cf-80ae-41ae-b15e-ea5cd0ffb1df)
 
-![Untitled](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/44e60fed-daa9-4c6d-91e1-91e10ab3c9ef)
 
 1. 인터랙티브 웹페이지 코드 리뷰
 2. html, css, javascript, Motion, Orientation Sensor를 활용한 인터랙티브 모바일 웹페이지 제작 
@@ -96,7 +95,7 @@ Html, Css, Javascript를 활용한 첫 인터랙티브 웹페이지 제작
 1. *“아름다운 노을 속, 스크롤을 내리면 해가 지고 구름이 사라지며 비행기가 날아가는 등 어느덧 밤이 됩니다."*
    
 
-https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/ede1cb58-1065-4cb4-9bc9-b3f0b45aa2de
+![1](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/2d34cf22-c1ab-4b14-b54d-b65037cece45)
 
     
 - scrollY , y position 활용
@@ -104,7 +103,7 @@ https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/ede1
 2. *"아름다운 노을이 지고 밤이 되면 우주 은하로 나아갑니다."*
     
 
-https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/8085f76a-ad1f-4bb7-a62e-ee74fba9f0be
+![2](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/f12762d4-8dc8-43ac-a8c8-b8df4b06b82b)
 
     
 - GO 버튼 클릭시 UFO 위치 이동, 일정 위치 도달 시 제자리로 돌아옴
@@ -115,7 +114,7 @@ https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/8085
     *하단의 작은 행성 아이콘을 클릭하면 우주선이 목적지 행성으로 바뀌며 그 곳에서의 삶을 약속합니다."*
     
 
-https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/d49b4e37-2e23-4091-b442-d52f071ad4ef
+![3](https://github.com/ch0rckbean/interactiveMedia_Introduction/assets/86273626/acdf412f-84c5-4ca3-a243-4f538ae22c0c)
 
 
     
@@ -127,8 +126,9 @@ Html, Css, Javascript
 
 ### 성과
 
-Html, Css, Javascript 입문 및 동작 이해, 스크롤 이벤트 사용
-
+- 스토리텔링 및 개연성을 적용한 기획
+- Html, Css, JavaScript 입문 및 동작 이해
+- 스크롤 이벤트 사용 
 
 ### Blog
 
